@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Rateo/static/css/main.13ce911d.chunk.css",
-    "main.js": "/Rateo/static/js/main.49a0ad2f.chunk.js",
-    "main.js.map": "/Rateo/static/js/main.49a0ad2f.chunk.js.map",
+    "main.js": "/Rateo/static/js/main.91b87d7b.chunk.js",
+    "main.js.map": "/Rateo/static/js/main.91b87d7b.chunk.js.map",
     "runtime-main.js": "/Rateo/static/js/runtime-main.c0eb31b4.js",
     "runtime-main.js.map": "/Rateo/static/js/runtime-main.c0eb31b4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Rateo/static/css/2.af3c1da9.chunk.css",
     "static/js/2.bc692c23.chunk.js": "/Rateo/static/js/2.bc692c23.chunk.js",
     "static/js/2.bc692c23.chunk.js.map": "/Rateo/static/js/2.bc692c23.chunk.js.map",
     "index.html": "/Rateo/index.html",
-    "precache-manifest.2149637ad7cf2403d091e727e4de446f.js": "/Rateo/precache-manifest.2149637ad7cf2403d091e727e4de446f.js",
+    "precache-manifest.b8c99d5868e79f83d382e41b4d2ce2fc.js": "/Rateo/precache-manifest.b8c99d5868e79f83d382e41b4d2ce2fc.js",
     "service-worker.js": "/Rateo/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Rateo/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.13ce911d.chunk.css.map": "/Rateo/static/css/main.13ce911d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.bc692c23.chunk.js",
     "static/css/main.13ce911d.chunk.css",
-    "static/js/main.49a0ad2f.chunk.js"
+    "static/js/main.91b87d7b.chunk.js"
   ]
 }

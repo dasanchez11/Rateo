@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c598bc4bdaf7c4caa5ac4ca63578d5f",
+    "revision": "85fcf19fd18541bf12754bce2c828648",
     "url": "/Rateo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rateo/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ba18f692bd089e4b1aa8",
+    "revision": "5f68a35b10f2ab6e43b8",
     "url": "/Rateo/static/css/main.13ce911d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rateo/static/js/2.bc692c23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba18f692bd089e4b1aa8",
-    "url": "/Rateo/static/js/main.49a0ad2f.chunk.js"
+    "revision": "5f68a35b10f2ab6e43b8",
+    "url": "/Rateo/static/js/main.91b87d7b.chunk.js"
   },
   {
     "revision": "72e83999c46d89f6ab78",
