@@ -8,7 +8,7 @@ const Caption = () =>{
     <div className="Elemento">
       <div className="Caption">
         <div className="h1" >
-          <h1>BIENVENIDO A <span>OPTIROUTE</span></h1>
+          <h1>BIENVENIDO A <span>Daniel es Severa Loquita</span></h1>
         </div>
         <div className ="sub">
         <p>SERVICIO DE RUTEO DE VEHÍCULOS AL MEJOR PRECIO</p>
