@@ -1,0 +1,99 @@
+.Elemento {
+  text-align: center;
+  background-size: cover;
+  height: 740px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to right,rgba(0,0,0,.7),rgba(0,0,0,.7)), url(http://gruting.com.s3-website-us-east-1.amazonaws.com/images/slider/1.jpg);
+
+}
+
+.Elemento:after{
+  background: rgba(0,0,0,.7);
+  content:""
+}
+
+.Caption{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.h1 h1{
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+
+}
+span{
+  color: rgb(5, 136, 193);
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.h1{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.button{
+  margin-top: 40px;
+}
+.sub {
+  color:white;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+
+
+.box-animate{
+  position: absolute;
+    left: 50%;
+    bottom: 50px;
+    color: #fff;
+    display: inline-block;
+    width: 24px;
+    margin-left: -12px;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: lighter;
+    z-index: 999;
+  /*start animation*/
+  animation-name: bounce;
+  animation-duration: 2.0s ;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+
+@keyframes bounce {
+
+  from {
+    top: 95%;
+    animation-timing-function: ease-out;
+  }
+
+  20% {
+    top: 85%;
+    animation-timing-function: ease-in;
+  }
+
+  50% {
+    top: 95%;
+    animation-timing-function: ease-out;
+  }
+
+  80% {
+    top: 90%;
+    animation-timing-function: ease-in;
+  }
+
+  to {
+    top: 90%;
+    animation-timing-function: cubic-bezier();
+  }
+
+}

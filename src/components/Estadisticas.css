@@ -1,0 +1,12 @@
+.contenedor-estadisticas{
+  background-image: url(http://gruting.com.s3-website-us-east-1.amazonaws.com/images/features-bg.jpg);
+  height: 640px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+  text-align: center;
+}

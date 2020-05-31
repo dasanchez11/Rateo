@@ -1,0 +1,33 @@
+
+
+.contenedor-nosotros {
+  background-image: url(http://gruting.com.s3-website-us-east-1.amazonaws.com/images/about-bg.jpg);
+  min-height: 640px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  justify-content:  center;
+}
+
+
+
+
+.contenido-nos {
+  color: white;
+}
+
+
+
+.progress-bar{
+  border-radius: 0px;
+}
+
+.progress{
+  border-radius: 0px;
+  margin-bottom: 20px;
+  height: 25px;
+}

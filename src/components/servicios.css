@@ -1,0 +1,49 @@
+.Servicios {
+text-align: center;
+padding-top: 45px;
+padding-bottom: 45px;
+}
+
+.
+
+.ruteo{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.otro{
+  border-width: 0.5px;
+  border-bottom-style: solid;
+  border-bottom-color: lightgrey;
+  border-right-color: lightgrey;
+  border-right-style: solid;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 32px;
+
+}
+
+.box{
+  height: 90px;
+  width: 90px;
+  background-color: rgb(5, 136, 193);
+  border-radius: 4px;
+  display: inline-block;
+
+}
+
+.box:hover{
+  background-color: #333;
+}
+
+.icono{
+  font-size: 36px;
+  height: 90px;
+  width: 90px;
+  /* background-color: rgb(5, 136, 193); */
+  /* border-radius: 0px; */
+  display: inline-block;
+  color: white;
+  align-items: center;
+}
